@@ -1,0 +1,15 @@
+C:\Users\28mat\Documents\szkoła\C#\na sprawdzian\MateuszUrbański2TEP_egzamin\Zadanie\bin\Debug\net8.0\Zadanie.exe
+C:\Users\28mat\Documents\szkoła\C#\na sprawdzian\MateuszUrbański2TEP_egzamin\Zadanie\bin\Debug\net8.0\Zadanie.deps.json
+C:\Users\28mat\Documents\szkoła\C#\na sprawdzian\MateuszUrbański2TEP_egzamin\Zadanie\bin\Debug\net8.0\Zadanie.runtimeconfig.json
+C:\Users\28mat\Documents\szkoła\C#\na sprawdzian\MateuszUrbański2TEP_egzamin\Zadanie\bin\Debug\net8.0\Zadanie.dll
+C:\Users\28mat\Documents\szkoła\C#\na sprawdzian\MateuszUrbański2TEP_egzamin\Zadanie\bin\Debug\net8.0\Zadanie.pdb
+C:\Users\28mat\Documents\szkoła\C#\na sprawdzian\MateuszUrbański2TEP_egzamin\Zadanie\obj\Debug\net8.0\Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28mat\Documents\szkoła\C#\na sprawdzian\MateuszUrbański2TEP_egzamin\Zadanie\obj\Debug\net8.0\Zadanie.AssemblyInfoInputs.cache
+C:\Users\28mat\Documents\szkoła\C#\na sprawdzian\MateuszUrbański2TEP_egzamin\Zadanie\obj\Debug\net8.0\Zadanie.AssemblyInfo.cs
+C:\Users\28mat\Documents\szkoła\C#\na sprawdzian\MateuszUrbański2TEP_egzamin\Zadanie\obj\Debug\net8.0\Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\28mat\Documents\szkoła\C#\na sprawdzian\MateuszUrbański2TEP_egzamin\Zadanie\obj\Debug\net8.0\Zadanie.sourcelink.json
+C:\Users\28mat\Documents\szkoła\C#\na sprawdzian\MateuszUrbański2TEP_egzamin\Zadanie\obj\Debug\net8.0\Zadanie.dll
+C:\Users\28mat\Documents\szkoła\C#\na sprawdzian\MateuszUrbański2TEP_egzamin\Zadanie\obj\Debug\net8.0\refint\Zadanie.dll
+C:\Users\28mat\Documents\szkoła\C#\na sprawdzian\MateuszUrbański2TEP_egzamin\Zadanie\obj\Debug\net8.0\Zadanie.pdb
+C:\Users\28mat\Documents\szkoła\C#\na sprawdzian\MateuszUrbański2TEP_egzamin\Zadanie\obj\Debug\net8.0\Zadanie.genruntimeconfig.cache
+C:\Users\28mat\Documents\szkoła\C#\na sprawdzian\MateuszUrbański2TEP_egzamin\Zadanie\obj\Debug\net8.0\ref\Zadanie.dll
